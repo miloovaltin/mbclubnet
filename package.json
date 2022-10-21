@@ -1,0 +1,16 @@
+{
+"name": "mbclubnet",
+"theme": "mb club net",
+"version": "6.8.2",
+"description": "mb club net สมัครเว็บไซต์คาสิโนเว็บตรง ไม่มีขั้นต่ำ รับเงินเครดิตฟรี",
+"keywords": [
+"mb club net",
+"mb club net เครดิตฟรี",
+"mb club net ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mbclubnet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
